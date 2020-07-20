@@ -1,0 +1,31 @@
+URI
+	Uniform Resource Identifier (URI) is one of the most important concepts of Semantic Web.
+	A Uniform Resource Identifier (URI) is a string of characters that is about naming, identifying, addressing, and defining resources.
+	Uniform Resource Identifiers (URIs) is one of the key features of the Semantic Web 
+	
+URIs were originally defined as two types:
+
+Uniform Resource Locators (URLs) which are addresses with network locations, and
+Uniform Resource Names (URNs) which are persistent names that are address independent.
+
+
+URL:
+	A URL is a URI that identifies a network-homed resource and also specifies the means of acting upon or obtaining the representation
+URN:
+	A Uniform Resource Name (URN) is a URI that identifies a resource by name, in a particular namespace. 
+	A URN can be used to identify a resource without implying its location
+
+
+XML
+	XML is intended as a markup-language for arbitrary document structure, as opposed to HTML.
+	XML provides everyone to create their own tags.
+	XML will be major catalyst in constructing "semantic web"
+
+	Here it is xml schema provides similar services
+	1.it has a default namespace
+	2.properties can be specify globally
+	3.datatypes supported by XMLSchema are mainly variations of numerical, temporal and string datatypes.
+
+
+4335869348
+12345
